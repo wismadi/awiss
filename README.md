@@ -1,0 +1,2 @@
+# awiss
+pengetahuan tentang programer
